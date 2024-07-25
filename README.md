@@ -21,7 +21,7 @@
 
    ```bash
    git clone https://github.com/ZaidMushtaq921/Blog-Using-React.git
-
+   ```bash
 ## Usage
 
 1. **Sign Up:** 
