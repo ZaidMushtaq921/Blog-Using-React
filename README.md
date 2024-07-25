@@ -44,7 +44,7 @@ Here are some screenshots of the application:
 ![Login Page](https://github.com/ZaidMushtaq921/Blog-Using-React/blob/main/Readme_images/Screenshot0.png)
 *Login page where users can sign in to their accounts.*
 
-![Sign Up Page](https://github.com/ZaidMushtaq921/Blog-Using-React/blob/main/Readme_images/screenshot1.png)
+![Sign Up Page](https://github.com/ZaidMushtaq921/Blog-Using-React/blob/main/Readme_images/Screenshot1.png)
 *Sign up page for creating a new account.*
 
 ![All Posts](https://github.com/ZaidMushtaq921/Blog-Using-React/blob/main/Readme_images/screenshot5.png)
