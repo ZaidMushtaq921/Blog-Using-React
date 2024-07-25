@@ -17,12 +17,9 @@
 - **Tailwind CSS:** For responsive and modern styling.
 - **React Rich Text Editor (RTE):** For rich text editing capabilities.
 
-## Clone the Repository:
 
-   ```bash
-   git clone https://github.com/ZaidMushtaq921/Blog-Using-React.git
-   ```bash
-## Usage
+ 
+### Usage
 
 1. **Sign Up:** 
    - Register a new account to start using the application. Follow the sign-up process on the login page.
@@ -40,13 +37,29 @@
    - Remove any blog posts you no longer need. Choose the blog post you wish to delete and click on the "Delete" button.
 ## Screenshots
 
+## Screenshots
+
 Here are some screenshots of the application:
 
-![Homepage](path/to/your/screenshot1.png)
-*Homepage showing the list of blogs.*
+![Login Page](Readme_images/screenshot0.png)
+*Login page where users can sign in to their accounts.*
 
-![Blog Editor](path/to/your/screenshot2.png)
-*Blog editor interface for creating and editing posts.*
+![Sign Up Page](Readme_images/screenshot1.png)
+*Sign up page for creating a new account.*
 
-![User Profile](path/to/your/screenshot3.png)
-*User profile page displaying uploaded blogs.*
+![All Posts](Readme_images/screenshot5.png)
+*Page showing all blog posts, including the user's own posts.*
+
+![Add Post](Readme_images/screenshot3.png)
+*Interface for adding a new blog post.*
+
+![Edit and Delete Posts](Readme_images/screenshot6.png)
+*Options to edit and delete the user's own blog posts.*
+
+![View Only](Readme_images/screenshot4.png)
+*Viewing other users' posts, with no options to edit or delete.*
+
+## Clone the Repository:
+
+   ```bash
+   git clone https://github.com/ZaidMushtaq921/Blog-Using-React.git
