@@ -44,19 +44,19 @@ Here are some screenshots of the application:
 ![Login Page](https://github.com/ZaidMushtaq921/Blog-Using-React/blob/main/Readme_images/Screenshot0.png)
 *Login page where users can sign in to their accounts.*
 
-![Sign Up Page](Readme_images/screenshot1.png)
+![Sign Up Page](https://github.com/ZaidMushtaq921/Blog-Using-React/blob/main/Readme_images/screenshot1.png)
 *Sign up page for creating a new account.*
 
-![All Posts](Readme_images/screenshot5.png)
+![All Posts](https://github.com/ZaidMushtaq921/Blog-Using-React/blob/main/Readme_images/screenshot5.png)
 *Page showing all blog posts, including the user's own posts.*
 
-![Add Post](Readme_images/screenshot3.png)
+![Add Post](https://github.com/ZaidMushtaq921/Blog-Using-React/blob/main/Readme_images/screenshot3.png)
 *Interface for adding a new blog post.*
 
-![Edit and Delete Posts](Readme_images/screenshot6.png)
+![Edit and Delete Posts](https://github.com/ZaidMushtaq921/Blog-Using-React/blob/main/Readme_images/screenshot6.png)
 *Options to edit and delete the user's own blog posts.*
 
-![View Only](Readme_images/screenshot4.png)
+![View Only](https://github.com/ZaidMushtaq921/Blog-Using-React/blob/main/Readme_images/screenshot4.png)
 *Viewing other users' posts, with no options to edit or delete.*
 
 ## Clone the Repository:
