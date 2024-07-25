@@ -41,7 +41,7 @@
 
 Here are some screenshots of the application:
 
-![Login Page](Readme_images/screenshot0.png)
+![Login Page](https://github.com/ZaidMushtaq921/Blog-Using-React/blob/main/Readme_images/Screenshot0.png)
 *Login page where users can sign in to their accounts.*
 
 ![Sign Up Page](Readme_images/screenshot1.png)
